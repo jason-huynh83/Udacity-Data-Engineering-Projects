@@ -40,4 +40,3 @@ In this program, I have learned to design data models, build data warehouses and
     -   Distributed Columnar Database Design (DISTKEY, SORTKEY)
 -   **Core Technologies Used:**
     -   Python (Pandas, Jupyter, psycopg2, boto3)
-    -   Apache Cassandra
