@@ -40,4 +40,18 @@ In this program, I have learned to design data models, build data warehouses and
     -   Distributed Columnar Database Design (DISTKEY, SORTKEY)
 -   **Core Technologies Used:**
     -   Python (Pandas, Jupyter, psycopg2, boto3)
-    -   AWS (Redshift and S3)
+    -   Apache Cassandra
+4. [Data Lake with Apache Spark](https://github.com/jason-huynh83/Udacity-Data-Engineering-Projects/tree/master/Data_Lake_Spark)
+Set up a spark data lake using Amazon EMR that performs analytics on user activity data for sparkify - a music streaming app.
+
+-   **Tasks Completed:**
+    -   Administered a EMR Cluster on AWS(Created roles & users)
+    -   Performed ETL to Read Data From S3 using PySpark, performs transformation and saves results as parquet files on S3
+-   **Concepts Learned:**
+    -   Schema On Read
+    -   Data Lake Implementation Options on AWS
+    -   Parquet Files
+-   **Core Technologies Used:**
+    -   Python (Pandas, PySpark)
+    -   Apache Spark
+    -   Amazon Elastic MapReduce(EMR)
