@@ -30,7 +30,7 @@ In this project, we would have to create our own custom operators to perform tas
  ![](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/33760/1586916755/Song_ERD.png)
  ### Data pipeline in Apache Airflow
 
-![](DAG.png)
+![](DAG.PNG)
 
 ## Configurations and Operators
 In the DAG, add  `default parameters`  according to these guidelines
